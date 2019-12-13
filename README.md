@@ -5,9 +5,9 @@ API using NodeJS + Express API
 
 ```shell
 npm i
-
+```
 and
-
+```shell
 npm start
 ```
 
